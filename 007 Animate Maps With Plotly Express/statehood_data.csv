@@ -1,0 +1,51 @@
+state,abbr,date_entered,order
+Delaware,DE,"Dec. 7, 1787",1
+Pennsylvania,PA,"Dec. 12, 1787",2
+New Jersey,NJ,"Dec. 18, 1787",3
+Georgia,GA,"Jan. 2, 1788",4
+Connecticut,CT,"Jan. 9, 1788",5
+Massachusetts,MA,"Feb. 6, 1788",6
+Maryland,MD,"Apr. 28, 1788",7
+South Carolina,SC,"May 23, 1788",8
+New Hampshire,NH,"June 21, 1788",9
+Virginia,VA,"June 25, 1788",10
+New York,NY,"July 26, 1788",11
+North Carolina,NC,"Nov. 21, 1789",12
+Rhode Island,RI,"May 29, 1790",13
+Vermont,VT,"Mar. 4, 1791",14
+Kentucky,KY,"June 1, 1792",15
+Tennessee,TN,"June 1, 1796",16
+Ohio,OH,"Mar. 1, 1803",17
+Louisiana,LA,"Apr. 30, 1812",18
+Indiana,IN,"Dec. 11, 1816",19
+Mississippi,MS,"Dec. 10, 1817",20
+Illinois,IL,"Dec. 3, 1818",21
+Alabama,AL,"Dec. 14, 1819",22
+Maine,ME,"Mar. 15, 1820",23
+Missouri,MO,"Aug. 10, 1821",24
+Arkansas,AR,"June 15, 1836",25
+Michigan,MI,"Jan. 26, 1837",26
+Florida,FL,"Mar. 3, 1845",27
+Texas,TX,"Dec. 29, 1845",28
+Iowa,IA,"Dec. 28, 1846",29
+Wisconsin,WI,"May 29, 1848",30
+California,CA,"Sept. 9, 1850",31
+Minnesota,MN,"May 11, 1858",32
+Oregon,OR,"Feb. 14, 1859",33
+Kansas,KS,"Jan. 29, 1861",34
+West Virginia,WV,"June 20, 1863",35
+Nevada,NV,"Oct. 31, 1864",36
+Nebraska,NE,"Mar. 1, 1867",37
+Colorado,CO,"Aug. 1, 1876",38
+North Dakota,ND,"Nov. 2, 1889",39
+South Dakota,SD,"Nov. 2, 1889",40
+Montana,MT,"Nov. 8, 1889",41
+Washington,WA,"Nov. 11, 1889",42
+Idaho,ID,"July 3, 1890",43
+Wyoming,WY,"July 10, 1890",44
+Utah,UT,"Jan. 4, 1896",45
+Oklahoma,OK,"Nov. 16, 1907",46
+New Mexico,NM,"Jan. 6, 1912",47
+Arizona,AZ,"Feb. 14, 1912",48
+Alaska,AK,"Jan. 3, 1959",49
+Hawaii,HI,"Aug. 21, 1959",50
